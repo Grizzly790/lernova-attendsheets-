@@ -1,0 +1,360 @@
+{
+  "id": 1769577694807,
+  "name": "maths cr1",
+  "students": [
+    {
+      "id": 1769577690039,
+      "name": "Aditya Vijay Singh",
+      "rollNo": "",
+      "attendance": {
+        "2026-01-01": {
+          "sessions": [
+            {
+              "id": "session_1",
+              "name": "Session 1",
+              "status": "P"
+            },
+            {
+              "id": "session_2",
+              "name": "Session 2",
+              "status": "L"
+            }
+          ],
+          "updated_at": "2026-01-28T05:21:46.399Z"
+        },
+        "2026-01-02": {
+          "status": "P",
+          "count": 1
+        },
+        "2026-01-03": {
+          "status": "P",
+          "count": 1
+        }
+      }
+    },
+    {
+      "id": 1769577690040,
+      "name": "Aditya Patil Rane",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690041,
+      "name": "Anirudh Nilesh Kumar Modi",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690042,
+      "name": "Vanshika Pundlikar Rane",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690043,
+      "name": "Divyansh Anil Gavaskar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690044,
+      "name": "Atharv Suresh Mhashilkar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690045,
+      "name": "Hrushikesh Balkrishna",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690046,
+      "name": "Jitesh Mahendra Koli",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690047,
+      "name": "Sesha Gireeshan",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690048,
+      "name": "Shreya Devichandra Mengji",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690049,
+      "name": "Yogiraj Sanjay Pujare",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690050,
+      "name": "Aryan Stephen Raj",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690051,
+      "name": "Zaid Rizwan Shaikh",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690052,
+      "name": "Sarthak Bhaveshkumar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690053,
+      "name": "Nileshsingh Rathod",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690054,
+      "name": "Rudra Vijay Khare Patil",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690055,
+      "name": "Naail Sayyed",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690056,
+      "name": "Mitali Amol Rane",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690057,
+      "name": "Yash Rajendra Nimde",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690058,
+      "name": "Hitesh Shridhar Patil",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690059,
+      "name": "Vedant Khupkar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690060,
+      "name": "Sanika Nagaraj",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690061,
+      "name": "Koushal Ashok Chaudhary",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690062,
+      "name": "Riya mahendra more",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690063,
+      "name": "Alka Dilip Prajapati",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690064,
+      "name": "Pranav Suresh Ganga",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690065,
+      "name": "Muaz Juber Ahmad Tamboli",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690066,
+      "name": "Jiten Rakesh Adhangle",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690067,
+      "name": "Hitesh Rakesh Shidkar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690068,
+      "name": "Atharva Suresh Mhashilkar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690069,
+      "name": "Divya",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690070,
+      "name": "Yash Bhushan Rao",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690071,
+      "name": "ISHITA DEBNATH",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690072,
+      "name": "Shlok Manojkumar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690073,
+      "name": "Sathish kannan",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690074,
+      "name": "Pranav Anil Bhagwat",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690075,
+      "name": "Bhaumik Patil",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690076,
+      "name": "Harsha Hiraman",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690077,
+      "name": "Ritik Vijay Bagade",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690078,
+      "name": "Shweta Yadav",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690079,
+      "name": "Harshita Arun",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690080,
+      "name": "Shriyansh Vijay",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690081,
+      "name": "AAYUSH ASHISH KENY",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690082,
+      "name": "Arshdeep singh rathod",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690083,
+      "name": "Akash Suresh Devlapalli",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690084,
+      "name": "Ritik Kamalkar",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690085,
+      "name": "Handwritten Students",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690086,
+      "name": "Kartik Holkunde",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690087,
+      "name": "Vignesh Bagade",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690088,
+      "name": "Aditsa Singh",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690089,
+      "name": "Zaid Shaikh",
+      "rollNo": "",
+      "attendance": {}
+    },
+    {
+      "id": 1769577690090,
+      "name": "Muthyala Spoorti Krishna",
+      "rollNo": "",
+      "attendance": {}
+    }
+  ],
+  "customColumns": [],
+  "thresholds": {
+    "excellent": 95,
+    "good": 90,
+    "moderate": 85,
+    "atRisk": 85
+  },
+  "enrollment_mode": "import_data",
+  "teacher_id": "user_1769132035",
+  "created_at": "2026-01-28T05:21:35.150480",
+  "updated_at": "2026-01-28T05:21:50.908506",
+  "statistics": {
+    "totalStudents": 52,
+    "avgAttendance": 100.0,
+    "atRiskCount": 0,
+    "excellentCount": 1,
+    "lastCalculated": "2026-01-28T05:21:50.931186"
+  }
+}

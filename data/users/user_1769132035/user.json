@@ -1,0 +1,14 @@
+{
+  "id": "user_1769132035",
+  "email": "lernovateacher@gmail.com",
+  "name": "Lernova teacher",
+  "password": "79dea051b4728b42bd7635da2716813a23b0df3451b716825909329253a7b2ba",
+  "created_at": "2026-01-23T07:03:55.591704",
+  "verified": true,
+  "role": "teacher",
+  "overview": {
+    "totalClasses": 1,
+    "totalStudents": 52,
+    "lastUpdated": "2026-01-28T05:21:50.932868"
+  }
+}

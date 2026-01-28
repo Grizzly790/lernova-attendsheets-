@@ -1,0 +1,13 @@
+{
+  "class_id": 1769162902290,
+  "teacher_id": "user_1769132035",
+  "date": "2026-01-23",
+  "session_number": 2,
+  "started_at": "2026-01-23T10:16:04.750425",
+  "rotation_interval": 5,
+  "current_code": "J5W58CEF",
+  "code_generated_at": "2026-01-23T10:16:09.842908",
+  "scanned_students": [],
+  "status": "stopped",
+  "stopped_at": "2026-01-23T10:16:13.509085"
+}
