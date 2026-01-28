@@ -5,4 +5,5 @@ pydantic[email]
 python-dotenv
 PyJWT
 user-agents
+sib-api-v3-sdk
 
